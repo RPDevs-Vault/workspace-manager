@@ -2,7 +2,8 @@
 
 
 <!-- ROADMAP_START -->
-Last Synced: `2026-07-08 04:26:27 UTC`
+
+Last Synced: `2026-07-08 09:03:59 UTC`
 
 ### 🔍 Open Pull Requests (Requires Review)
 - **`RPDevs-Vault/MALSync`**
@@ -10,6 +11,8 @@ Last Synced: `2026-07-08 04:26:27 UTC`
   - [PR #2: Auto Urls](https://github.com/RPDevs-Vault/MALSync/pull/2) by @github-actions[bot]
 
 ### 📋 Open Tasks & Issues
+- **`RPDevs-Vault/builder-manager`**
+  - [Issue #1: Weekly Docker Asset Collection Summary](https://github.com/RPDevs-Vault/builder-manager/issues/1)
 - **`RPDevs-Vault/container-manager`**
   - [Issue #42: Weekly Docker Asset Collection Summary](https://github.com/RPDevs-Vault/container-manager/issues/42)
   - [Issue #41: Weekly Docker Asset Collection Summary](https://github.com/RPDevs-Vault/container-manager/issues/41)
@@ -27,5 +30,6 @@ Last Synced: `2026-07-08 04:26:27 UTC`
   - [Issue #14: Weekly Notification Heatmap](https://github.com/RPDevs-Vault/vault-manager/issues/14)
   - [Issue #13: License Audit: 20 projects missing licenses](https://github.com/RPDevs-Vault/vault-manager/issues/13)
   - [Issue #12: Weekly Notification Heatmap](https://github.com/RPDevs-Vault/vault-manager/issues/12)
+
 
 <!-- ROADMAP_END -->

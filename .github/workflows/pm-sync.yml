@@ -14,7 +14,7 @@ on:
 jobs:
   sync-roadmap:
     name: Sync Organization Roadmap
-    runs-on: ubuntu-latest
+    runs-on: [self-hosted, linux, lightweight]
     permissions:
       contents: write
       issues: read

@@ -41,6 +41,7 @@ jobs:
           git add README.md
           if ! git diff --staged --quiet; then
             git commit -m "chore: auto-sync project roadmap [skip ci]"
+            git pull --rebase origin main
             git push origin main
           else
             echo "No changes to commit."

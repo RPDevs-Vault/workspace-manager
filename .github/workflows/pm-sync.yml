@@ -8,7 +8,7 @@ on:
     branches:
       - main
     paths:
-      - 'pm_sync.py'
+      - 'project/pm_sync.py'
       - '.github/workflows/pm-sync.yml'
 
 jobs:
@@ -31,8 +31,8 @@ jobs:
         env:
           GH_TOKEN: ${{ secrets.SYNC_TOKEN }}
         run: |
-          chmod +x pm_sync.py
-          python3 pm_sync.py
+          chmod +x project/pm_sync.py
+          python3 project/pm_sync.py
 
       - name: Commit and Push Changes
         run: |

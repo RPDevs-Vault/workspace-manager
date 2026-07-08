@@ -96,7 +96,7 @@ def main():
         
     readme_path = "README.md"
     if not os.path.exists(readme_path):
-        readme_path = "/home/llmuser/projects/managers/project-manager/README.md"
+        readme_path = "/home/llmuser/projects/managers/workspace-manager/README.md"
         
     if not os.path.exists(readme_path):
         print(f"Error: README.md not found", file=sys.stderr)
